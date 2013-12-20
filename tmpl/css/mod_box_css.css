@@ -1,0 +1,15 @@
+@CHARSET "ISO-8859-1";
+.box {
+  display: block;
+  width: 98%;
+  height: 100%;
+  background-color: #fff;
+  padding-left: 5px;
+  padding-right: 5px;
+border-radius: 0 0 20px 0;
+  -moz-border-radius-bottomright: 20px;
+  -webkit-border-bottom-right-radius: 20px;
+box-shadow: 5px 5px 5px #475728;
+-webkit-box-shadow:5px 5px 5px #475728;
+    -moz-box-shadow:1px 3px 4px 2px #475728;
+}
